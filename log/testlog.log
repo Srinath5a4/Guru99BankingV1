@@ -1,0 +1,285 @@
+2021-10-23 19:35:51,930 - Guru99BankingV1 -INFO - URL is opened
+2021-10-23 19:35:52,211 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-23 19:35:52,288 - Guru99BankingV1 -INFO - Entered Password
+2021-10-23 19:35:53,293 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-23 19:35:53,324 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-23 19:36:53,314 - Guru99BankingV1 -INFO - URL is opened
+2021-10-23 19:36:53,500 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-23 19:36:53,579 - Guru99BankingV1 -INFO - Entered Password
+2021-10-23 19:36:54,619 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-23 19:36:54,634 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-23 20:01:49,211 - Guru99BankingV1 -INFO - URL is opened
+2021-10-23 20:01:49,401 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-23 20:01:49,505 - Guru99BankingV1 -INFO - Entered Password
+2021-10-23 20:01:50,507 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-23 20:01:50,517 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-23 20:05:02,105 - Guru99BankingV1 -INFO - URL is opened
+2021-10-23 20:05:02,273 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-23 20:05:02,324 - Guru99BankingV1 -INFO - Entered Password
+2021-10-23 20:05:03,694 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-23 20:05:03,705 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-24 10:03:31,407 - Guru99BankingV1 -INFO - URL is opened
+2021-10-24 10:04:40,234 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 11:26:15,894 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 11:26:16,230 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 11:26:16,324 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 11:26:17,504 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 11:26:17,536 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-26 12:04:00,628 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 12:04:00,858 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 12:04:00,950 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 12:04:02,129 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 19:46:49,841 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 19:46:49,945 - Guru99BankingV1 -INFO - password provided
+2021-10-26 19:46:53,984 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 19:46:59,475 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 19:46:59,530 - Guru99BankingV1 -INFO - password provided
+2021-10-26 19:47:04,272 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 19:47:04,323 - Guru99BankingV1 -INFO - password provided
+2021-10-26 19:47:09,306 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 19:47:09,367 - Guru99BankingV1 -INFO - password provided
+2021-10-26 19:47:13,101 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 19:47:18,611 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 19:47:18,664 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:40:49,245 - Guru99BankingV1 -INFO - User name is provided
+2021-10-26 20:40:49,358 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-26 20:40:54,485 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-26 20:41:05,050 - Guru99BankingV1 -INFO - validation started....
+2021-10-26 20:41:05,089 - Guru99BankingV1 -INFO - test case passed....
+2021-10-26 20:45:07,271 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 20:45:07,458 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 20:45:07,529 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 20:45:08,631 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 20:45:14,997 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:45:15,065 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:45:19,254 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 20:45:25,519 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:45:25,616 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:45:31,624 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:45:31,710 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:45:36,814 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:45:36,887 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:45:40,712 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 20:45:46,545 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:45:46,642 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:45:56,466 - Guru99BankingV1 -INFO - User name is provided
+2021-10-26 20:45:56,542 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-26 20:46:01,574 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-26 20:46:11,761 - Guru99BankingV1 -INFO - validation started....
+2021-10-26 20:46:11,789 - Guru99BankingV1 -INFO - test case passed....
+2021-10-26 20:49:37,521 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:49:37,595 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:49:42,660 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:49:42,722 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:49:47,538 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:49:47,658 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:49:57,609 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 20:49:57,815 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 20:49:57,888 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 20:49:59,000 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 20:49:59,019 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-26 20:53:15,151 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:53:15,236 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:53:20,592 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:53:20,663 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:53:25,969 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:53:26,069 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:02,758 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 20:57:03,070 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 20:57:03,173 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 20:57:04,289 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 20:57:04,304 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-26 20:57:10,337 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:57:10,411 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:15,086 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 20:57:20,828 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:57:20,953 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:26,580 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:57:26,647 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:32,203 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:57:32,284 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:36,284 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 20:57:42,027 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 20:57:42,108 - Guru99BankingV1 -INFO - password provided
+2021-10-26 20:57:55,454 - Guru99BankingV1 -INFO - User name is provided
+2021-10-26 20:57:55,523 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-26 20:58:00,720 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-26 20:58:11,225 - Guru99BankingV1 -INFO - validation started....
+2021-10-26 20:58:11,254 - Guru99BankingV1 -INFO - test case passed....
+2021-10-26 21:31:03,216 - Guru99BankingV1 -INFO - URL is opened
+2021-10-26 21:31:03,686 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-26 21:31:03,767 - Guru99BankingV1 -INFO - Entered Password
+2021-10-26 21:31:05,783 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-26 21:31:05,814 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-26 21:31:11,213 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 21:31:11,286 - Guru99BankingV1 -INFO - password provided
+2021-10-26 21:31:15,315 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 21:31:20,971 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 21:31:21,049 - Guru99BankingV1 -INFO - password provided
+2021-10-26 21:31:26,280 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 21:31:26,340 - Guru99BankingV1 -INFO - password provided
+2021-10-26 21:31:31,413 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 21:31:31,477 - Guru99BankingV1 -INFO - password provided
+2021-10-26 21:31:35,449 - Guru99BankingV1 -INFO - Login passed
+2021-10-26 21:31:41,041 - Guru99BankingV1 -INFO - user name provided
+2021-10-26 21:31:41,129 - Guru99BankingV1 -INFO - password provided
+2021-10-26 21:31:51,629 - Guru99BankingV1 -INFO - User name is provided
+2021-10-26 21:31:51,700 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-26 21:31:56,946 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-26 21:32:07,557 - Guru99BankingV1 -INFO - validation started....
+2021-10-26 21:32:07,614 - Guru99BankingV1 -INFO - test case passed....
+2021-10-27 10:25:24,205 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 10:25:24,475 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 10:25:24,555 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 10:25:25,640 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 10:25:25,655 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 10:25:30,824 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:25:30,896 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:25:35,031 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 10:25:40,673 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:25:40,791 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:25:45,819 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:25:45,897 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:25:50,984 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:25:51,049 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:25:54,811 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 10:26:00,619 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:26:00,682 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:26:09,831 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 10:26:09,908 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 10:26:15,042 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 10:26:25,306 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 10:26:25,343 - Guru99BankingV1 -INFO - test case passed....
+2021-10-27 10:55:07,244 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 10:55:07,391 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 10:55:07,469 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 10:55:08,568 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 10:55:08,586 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 10:55:13,732 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:55:13,812 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:55:17,913 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 10:55:23,693 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:55:23,764 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:55:28,836 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:55:28,909 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:55:33,987 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:55:34,067 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:55:37,961 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 10:55:43,841 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 10:55:43,908 - Guru99BankingV1 -INFO - password provided
+2021-10-27 10:55:52,757 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 10:55:52,838 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 10:55:57,797 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 10:56:07,620 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 11:10:41,155 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 11:10:41,435 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 11:10:41,516 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 11:10:42,619 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 11:10:42,646 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 11:10:48,121 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:10:48,210 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:10:52,365 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:10:57,753 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:10:57,851 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:11:02,579 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:11:02,645 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:11:07,947 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:11:08,065 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:11:11,985 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:11:17,450 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:11:17,560 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:11:27,975 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 11:11:28,087 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 11:11:33,088 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 11:11:43,922 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 11:11:43,963 - Guru99BankingV1 -INFO - test case passed....
+2021-10-27 11:54:27,447 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 11:54:46,928 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:54:47,089 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:54:51,685 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:54:57,263 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:54:57,412 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:55:02,218 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:55:02,334 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:55:07,818 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:55:07,936 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:55:11,906 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:55:17,606 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:55:17,755 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:55:27,826 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 11:55:27,982 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 11:55:32,641 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 11:55:43,889 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 11:55:43,924 - Guru99BankingV1 -INFO - test case passed....
+2021-10-27 11:58:24,411 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 11:58:24,643 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 11:58:24,750 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 11:58:25,970 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 11:58:26,001 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 11:58:32,674 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:58:32,818 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:58:37,078 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:58:42,859 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:58:42,968 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:58:47,831 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:58:48,037 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:58:53,533 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:58:53,655 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:58:57,730 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 11:59:03,676 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 11:59:03,772 - Guru99BankingV1 -INFO - password provided
+2021-10-27 11:59:14,162 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 11:59:14,324 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 11:59:19,111 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 11:59:30,194 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 11:59:30,231 - Guru99BankingV1 -INFO - test case passed....
+2021-10-27 12:29:58,965 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 12:29:59,130 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 12:29:59,272 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 12:30:00,508 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 12:30:00,532 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 12:30:07,345 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:30:07,452 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:30:11,640 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 12:30:17,279 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:30:17,401 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:30:22,341 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:30:22,422 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:30:28,074 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:30:28,200 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:30:32,121 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 12:30:38,017 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:30:38,174 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:30:48,254 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 12:30:48,350 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 12:30:53,095 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 12:31:03,655 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 12:36:20,201 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 12:36:20,374 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 12:36:20,606 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 12:36:21,771 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 12:36:21,787 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 12:36:32,163 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 12:36:32,245 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 12:37:57,888 - Guru99BankingV1 -INFO - URL is opened
+2021-10-27 12:37:58,097 - Guru99BankingV1 -INFO - Entered UserName
+2021-10-27 12:37:58,199 - Guru99BankingV1 -INFO - Entered Password
+2021-10-27 12:37:59,521 - Guru99BankingV1 -INFO - Clicked on login Button
+2021-10-27 12:37:59,538 - Guru99BankingV1 -INFO - Login test Passed
+2021-10-27 12:38:06,962 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:38:07,130 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:38:11,362 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 12:38:17,412 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:38:17,515 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:38:22,992 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:38:23,118 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:38:28,053 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:38:28,185 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:38:32,202 - Guru99BankingV1 -INFO - Login passed
+2021-10-27 12:38:38,081 - Guru99BankingV1 -INFO - user name provided
+2021-10-27 12:38:38,230 - Guru99BankingV1 -INFO - password provided
+2021-10-27 12:38:49,094 - Guru99BankingV1 -INFO - User name is provided
+2021-10-27 12:38:49,188 - Guru99BankingV1 -INFO - Passsword is provided
+2021-10-27 12:38:53,804 - Guru99BankingV1 -INFO - providing customer details....
+2021-10-27 12:39:04,965 - Guru99BankingV1 -INFO - validation started....
+2021-10-27 12:39:05,002 - Guru99BankingV1 -INFO - test case passed....
